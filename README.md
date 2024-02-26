@@ -29,4 +29,4 @@ Website Peduli Diri adalah website yang berguna untuk melakukan perekaman data p
 **Profile Page**![](uploads/profile-page.PNG)
 
 
-**Flowchart, ERD, DFD**![](uploads/FLOWCHART-PeduliDiri.PNG)![](uploads/ERD-PeduliDiri.PNG)![](uploads/DFD-PeduliDiri.PNG)
+**Flowchart, ERD, DFD**![](uploads/FLOWCHART-PeduliDiri.png)![](uploads/ERD-PeduliDiri.png)![](uploads/DFD-PeduliDiri.png)
