@@ -3,12 +3,10 @@
 Website Peduli Diri adalah website yang berguna untuk melakukan perekaman data perjalanan dengan fitur pengecekan suhu tubuh sebagai indikasi dari keseheatan pengguna. Website ini dibangun dengan menggunakan metode pengembangan website sederhana (PHP-Native) dengan integritas database MySQL.
 
 
-
-**Login Page**![](uploads/login.PNG)
-
+**Login & Register Page**
 
 
-**Register Page**![](uploads/register.PNG)
+![](uploads/login.PNG) ![](uploads/register.PNG)
 
 
 
